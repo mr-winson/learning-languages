@@ -40,7 +40,9 @@ print 'Hello, World!' # NOTE: you also dont need the par-
 
 =begin
 multi-line comments are created by beginning with
-"=begin" and ends with "=end"
+"begin" and ends with "end" 
+
+NOTE: you need to put an equal sign before "begin" and "end" but I didnt so the file is not messed up
 =end
 
 
